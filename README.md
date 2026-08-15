@@ -58,6 +58,6 @@ sed -E -f sed_1.sed -f sed_2.sed your_file.txt
 | Что        | На что      |
 |:-----------|:------------|
 | `&rsquo;`  | `'`         |
-| `&egrave;` | `\\``\{e\}` |
+| `&egrave;` | `\\\`\{e\}` |
 | `&aring;`  | `\\o\{a\}`  |
 
